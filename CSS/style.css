@@ -232,6 +232,7 @@ body {
     padding: 2rem;
     background-color: #444;
     height: 3rem;
+    width: auto;
 }
 
 .certificate-name,
