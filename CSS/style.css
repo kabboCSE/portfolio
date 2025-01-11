@@ -1,5 +1,5 @@
 * {
-  font-family: "Roboto", sans-serif;
+  font-family: "Ibarra Real Nova", serif;
   color: white;
 }
 body {
@@ -11,7 +11,7 @@ body {
   position: sticky;
   top: 0;
   background-color: rgba(34, 34, 34, 0.25);
-  /* z-index: 1000; */
+  z-index: 1000;
   backdrop-filter: blur(4px); /*blur intensity */
   border-bottom: 1px solid #333;
 }
@@ -232,6 +232,7 @@ body {
     padding: 2rem;
     background-color: #444;
     height: 3rem;
+   
 }
 
 .certificate-name,
